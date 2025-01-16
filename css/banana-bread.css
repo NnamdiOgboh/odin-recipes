@@ -1,0 +1,13 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+    font-size: larger;
+}
+
+img {
+    image-rendering: auto;
+}
